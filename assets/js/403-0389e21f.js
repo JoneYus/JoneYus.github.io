@@ -1,1 +1,0 @@
-import{A as a,a as t,B as e,H as s}from"./index-60c670e6.js";import{R as r}from"./index-68a9c094.js";const c=()=>{const o=a();return t(r,{status:"403",title:"403",subTitle:"Sorry, you are not authorized to access this page.",extra:t(e,{type:"primary",onClick:()=>{o(s)},children:"Back Home"})})};export{c as default};
