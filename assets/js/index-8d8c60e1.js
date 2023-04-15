@@ -1,1 +1,0 @@
-import{j as e}from"./index-4a1dafde.js";var r="C:\\Users\\qiang.yu\\Desktop\\Hooks-Admin-master\\src\\views\\dashboard\\embedded\\index.tsx";const a=()=>e.exports.jsxDEV("iframe",{src:"https://cn.bing.com/",frameBorder:"0",className:"card full-iframe"},void 0,!1,{fileName:r,lineNumber:4,columnNumber:9},void 0);export{a as default};
