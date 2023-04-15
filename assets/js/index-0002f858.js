@@ -1,0 +1,1 @@
+import{a as e}from"./index-57fd1b56.js";const n=()=>e("div",{className:"card content-box",children:e("span",{className:"text",children:"Menu221 \u{1F353}\u{1F347}\u{1F348}\u{1F349}"})});export{n as default};

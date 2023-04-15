@@ -1,1 +1,0 @@
-import{r,j as s,a as n}from"./index-a62f48fe.js";function o(){const[e,c]=r.exports.useState(0);return r.exports.useEffect(()=>{const t={current:0};t.current&&clearInterval(t.current),t.current=setInterval(()=>{},1e3)},[e]),s("div",{children:["count: ",e,n("br",{}),n("button",{onClick:()=>c(t=>t+1),children:"\u589E\u52A01"})]})}export{o as default};
